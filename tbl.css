@@ -1,0 +1,174 @@
+
+.scroll1{
+color: oldlace;
+    font-size: 20px;
+    background-color: darkblue;
+    
+}
+.scroll{
+color: firebrick;
+    font-size: 20px;
+     background-color: white;
+}
+body
+{
+background-image: url(car2.jpg);
+    image-resolution: from-image;
+background-repeat: no-repeat;
+    background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.tbls tr,th,td{
+    text-align: center;
+    table-layout: auto;
+    text-align: center;
+    background-position: center;
+    background-color: white;
+    
+}
+table{
+    margin-left: 300px;
+    border-radius: 5px ;
+    border-color: brown;
+}
+.list a,li  {
+    display: inline-block;
+     background-position: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        text-decoration-color: black;
+        padding-left: 15;
+        padding-right: 15;
+        font-size: 30px;
+        color: black;
+        background-color: cadetblue;
+    }
+.form1 input[type='submit']
+{
+    cursor: pointer;
+    
+}
+.heading p
+{
+    margin-left: 500px;
+    color: white;
+    font-size:20px; 
+   
+}
+.heading
+{
+     background-color: darkblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.form1
+{
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.formtitle{
+    font-size: 20px;
+    color: red;
+}
+.back1 li{
+    border-radius: 5px;
+    margin-left: 600px;
+    font-size: 30px;
+    margin-bottom: 100px;
+    text-decoration: none;
+}
+.back1 li,a{
+     text-decoration: none;
+    font: 2px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: black;
+    background-color: brown;
+}
+
+ .list a,li  {
+    display: inline-block;
+     background-position: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        text-emphasis-color: bisque;
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 20px;
+        color: black;
+        background-color:cadetblue;
+        border-radius: 20px;
+    }
+a:hover{
+    background-color:red;
+}
+a:visited{
+    color:azure;
+}
+a:active
+{
+    background-color: red;
+}
+a.exe2:hover,a.exe2:active
+{
+    font-size: 550%;
+}
+.form1 input[type='submit']
+{
+    color: seagreen;
+    cursor: pointer; 
+    text-decoration:underline;
+    font-size: 15px;
+}
+input[type="submit"]:hover{
+    background-color:red;
+}
+.list{
+    margin-left: 320px;
+}
+.r
+{
+    background-color: lightblue;
+}
+.r2
+{
+    background-color: lightgray;
+}
+.r3
+{
+    background-color: lightblue;
+}
+.r4
+{
+    background-color: lightgray;
+}
+.r5
+{
+    background-color: lightblue;
+}
+.r6
+{
+    background-color: lightgray;
+}
+.r7
+{
+    background-color: lightblue;
+}
+.r8
+{
+    background-color: lightgray;
+}
+.r9
+{
+    background-color: lightblue;
+}
+
+.table2{
+    border: 20px;
+    background-color: antiquewhite;
+    font-family: cursive;
+    font:20px;
+    color:darkblue;
+}

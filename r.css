@@ -1,0 +1,14 @@
+body
+{
+    background-image: url(last.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+   
+}
+.w
+{
+     font-family: cursive;
+    font: 20px;
+    color: darkblue;
+}
